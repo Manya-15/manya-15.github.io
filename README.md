@@ -1,2 +1,2 @@
-# manya-15.github.io/website
+# manya-15.github.io
 My first website
